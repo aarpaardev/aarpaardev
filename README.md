@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmali277&label=Profile%20views&color=0e75b6&style=flat" alt="mmali277" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmali277&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="mmali277" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmali277&theme=apprentice&no-frame=false&no-bg=false&margin-w=4" alt="mmali277" /></a> </p>
 
 - 🔭 I’m currently working as R&D Manager at [Cytomate](https://www.cytomate.net)
 
