@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Haider Ali Khan</h1>
-<h3 align="center">R&D Manager | Full Stack Engineer | Offensive Cyber Security Specialist</h3>
+<h3 align="center">R&D Manager | Full Stack Engineer | Offensive Security Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmali277&label=Profile%20views&color=0e75b6&style=flat" alt="mmali277" /> </p>
 
