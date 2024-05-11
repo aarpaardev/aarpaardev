@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-haider-ali-khan-9a9137135/](https://www.linkedin.com/in/muhammad-haider-ali-khan-9a9137135/)
 
-## 🌐 <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-haider-ali-khan-9a9137135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haider-ali-khan-9a9137135" height="30" width="40" /></a>
 </p>
