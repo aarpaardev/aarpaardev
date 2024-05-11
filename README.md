@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mmali277&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="mmali277" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmali277&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mmali277" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmali277&theme=dark&hide_border=false" alt="mmali277" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmali277&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mmali277" /></p>
 
