@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything that comes under R&D**
 
-- 📫 How to reach me **mmali277@gmail.com**
-
 - 📄 Know about my experiences [on linkedin](https://www.linkedin.com/in/muhammad-haider-ali-khan-9a9137135/)
 
 ## 🌐 Socials:
