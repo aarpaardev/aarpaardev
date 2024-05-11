@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mmali277@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-haider-ali-khan-9a9137135/] (on linkedin)
+- 📄 Know about my experiences [on linkedin](https://www.linkedin.com/in/muhammad-haider-ali-khan-9a9137135/)
 
 ## 🌐 Socials:
 
