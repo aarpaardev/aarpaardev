@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmali277&theme=apprentice&no-frame=false&no-bg=false&margin-w=4" alt="mmali277" /></a> </p>
 
 - 🔭 I’m currently working as R&D Manager at [Cytomate](https://www.cytomate.net)
+<!-- - 📝 I regularly write articles on (Coming Soon!) -- >
 
-- 📝 I regularly write articles on (Coming Soon!)
-
-- 💬 Ask me about **anything that comes under R&D**
+- 💬 Ask me about **almost anything that comes under R&D**
 
 - 📄 Know about my experiences [on linkedin](https://www.linkedin.com/in/muhammad-haider-ali-khan-9a9137135/)
+
+- 🔒 I've been using Azure Repos for the past 5 years, so there isn’t much to see here.
 
 ## 🌐 Socials:
 
